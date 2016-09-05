@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Oscar Neiva/Desktop/Gravity/Assets/_Scenes/Main.unity
+  isLoaded: 1
+  isActive: 1
